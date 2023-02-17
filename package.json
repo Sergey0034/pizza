@@ -8,6 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "build-gp": "ng build --output-path docs --base-href /pizza/"
+    "build-gp": "ng build --output-path docs "
   },
   "private": true,
   "dependencies": {
