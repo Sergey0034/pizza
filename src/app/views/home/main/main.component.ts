@@ -96,6 +96,7 @@ export class MainComponent implements OnInit, OnDestroy, AfterViewInit {
 
   ngAfterViewInit() {
     // this.popupComponent.open();
+    console.log('hello');
 
     // this.modalService.open(this.popup, {})
 
